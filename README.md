@@ -27,25 +27,25 @@ Object with the following parameters
 ##### less
 Type: `Object`
 
-Params for [less-preprocessor](http://lesscss.org/#using-less-configuration)
+Params for process `.less` files by [less-preprocessor](http://lesscss.org/#using-less-configuration)
 
 ##### scss
 Type: `Object`
 
-Params for [scss-preprocessor](https://github.com/sass/node-sass#options)
+Params for process `.scss` files by [scss-preprocessor](https://github.com/sass/node-sass#options)
 
 
 ##### sass
 Type: `Object`
 
-Params for [scss-preprocessor](https://github.com/sass/node-sass#options)
+Params for process `.sass` files by [scss-preprocessor](https://github.com/sass/node-sass#options)
 
 Note: `.sass` process by `scss-preprocessor` with option `indentedSyntax: true`
 
 ##### stylus
 Type: `Object`
 
-Params for [stylus-preprocessor](https://github.com/jenius/accord/blob/master/docs/stylus.md)
+Params for process `.styl` files by [stylus-preprocessor](https://github.com/jenius/accord/blob/master/docs/stylus.md)
 
 
 ## License
