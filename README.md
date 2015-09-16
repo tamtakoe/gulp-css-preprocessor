@@ -1,6 +1,6 @@
 # gulp-css-preprocessor [![NPM version](https://badge.fury.io/js/gulp-css-preprocessor.svg)](http://badge.fury.io/js/gulp-css-preprocessor)
 
-> Less/Scss/Sass/Stylus plugin for gulp based on file extensions. It uses a suitable preprocessor for each file type
+> Less/Scss/Sass/Stylus plugin for gulp. It uses a suitable preprocessor for files based on their extensions
 
 ## Install with [npm](npmjs.org)
 
