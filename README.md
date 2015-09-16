@@ -51,5 +51,3 @@ Params for process `.styl` files by [stylus-preprocessor](https://github.com/jen
 ## License
 
 © Oleg Istomin 2015. Released under the MIT license
-
-***
