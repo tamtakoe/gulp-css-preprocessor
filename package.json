@@ -1,7 +1,7 @@
 {
   "name": "gulp-css-preprocessor",
   "description": "Less/Scss/Sass/Stylus plugin for gulp based on file extensions",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "author": {
     "name": "tamtakoe",
     "email": "tamtakoe@gmail.com"
